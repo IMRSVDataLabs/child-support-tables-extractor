@@ -1,0 +1,33 @@
+# Usual Python junk
+__pycache__
+*.egg-info
+.eggs
+
+# Ignore usual Jupyter notebook junk
+.ipynb_checkpoints
+
+# Coverage state, reports, etc.
+.coverage
+/htmlcov
+/.cache
+
+# GitHub wiki
+/wiki
+
+# The generated data
+/ontario
+/quebec
+/nova_scotia
+/new_brunswick
+/manitoba
+/british_columbia
+/prince_edward_island
+/saskatchewan
+/alberta
+/newfoundland_and_labrador
+/yukon
+/northwest_territories
+/nunavut
+
+# Virtual environment
+/venv
