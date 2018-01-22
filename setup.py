@@ -5,6 +5,7 @@ from glob import glob
 setup(
     name='child-support-tables',
     version='0.2',
+    license='License :: OSI Approved :: ISC License (ISCL)',
     install_requires=[
         'lxml',
     ],
